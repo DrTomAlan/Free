@@ -1,1 +1,2 @@
-implementation 'com.google.chromeos:chromeos-lowlatencystylus:1.0.1'
+# git config --implementation 'com.google.chromeos:chromeos-lowlatencystylus:1.0.1'
+
